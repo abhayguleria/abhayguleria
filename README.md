@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abhayguleria
+- Hi, I’m @abhayguleria
 - Research Interests: Water Quality, Numerical Modelling, Contaminant Hydrogeology, Human Health Risk Assessment
-- 🌱 I’m currently learning MATLAB, JULIA
+- I’m currently learning MATLAB, JULIA
 - 📫 abhay_guleria@civil.iitd.ac.in, abhayguleria92@gmail.com
 
 <!---
