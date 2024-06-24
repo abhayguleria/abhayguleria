@@ -1,4 +1,4 @@
-- Hi, I’m @abhayguleria
+- Hi, I’m Abhay Guleria, a Ph.D. student at the Department of Civil Engineering, IIT Delhi, India.
 - Research Interests: Water Quality, Numerical Modelling, Contaminant Hydrogeology, Human Health Risk Assessment
 - I’m currently learning MATLAB, JULIA
 - 📫 abhay_guleria@civil.iitd.ac.in, abhayguleria92@gmail.com
